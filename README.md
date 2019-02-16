@@ -8,8 +8,7 @@
 和平时使用ViewPager一样，具体看Demo。
 
 效果看下图
-![156465.gif](https://upload-images.jianshu.io/upload_images/7632909-64ce012dbd9acef1.gif?imageMogr2/auto-orient/strip)
 
-最后，附上源码链接https://github.com/MIRRORCF/LazyViewPager/
+![156465.gif](https://upload-images.jianshu.io/upload_images/7632909-64ce012dbd9acef1.gif?imageMogr2/auto-orient/strip)
 （ps:有问题请在下方留言）
 
